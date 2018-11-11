@@ -1,0 +1,11 @@
+Police des titres :
+	https://fonts.google.com/specimen/Merienda
+
+Couleurs : 
+	navbar : #061339
+    premier bloc : #B9CDFF + background
+    titre h1 : #FFF
+    autres titres : #2F4073
+	footer : #061339
+    tête chat défaut : #7885A5
+    tête chat hover : #061339

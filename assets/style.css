@@ -1,0 +1,117 @@
+/*
+font-family: 'Merienda', cursive;
+*/
+.container-fluid{
+    padding: 0;
+}
+
+/* general fonts styles */
+h1,h2,h3,.brand{
+    font-family: 'Merienda', cursive;
+}
+
+h2,h3{
+    color: #2F4073;
+}
+
+/*-------------- header ------------------*/
+header{
+    color:#fff;
+}
+.row1_header {
+    background: #061339;
+    height: 50px;
+}
+.row2_header {
+    background-image: url('img/background.jpg');
+    height: 178px;
+}
+.brand {
+    display: flex;
+    align-items: center;
+}
+.brand > p {
+    margin: 0;
+}
+.main-title {
+    /* main title centering */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.main-title>h1 {
+    text-shadow: 2px 2px 2px #191919;
+}
+
+
+/* ----------main------------- */
+.row_main {
+    background: #F1F1F1;
+    min-height: 567px;
+    display: flex;
+    align-items: center;
+}
+/*style form section*/
+#form_title {
+    font-size: 1.2em;
+}
+/* text area*/
+#adoption_reasons {
+    height: 220px;
+}
+/* alert form*/
+.danger-custom {
+    color: rgba(212, 62, 62, 0.911);
+    font-size: 90%;
+}
+
+
+/* --------------footer--------------- */
+
+/*title style about section*/
+#about_title {
+    padding: 0.7em 0.7em 0.7em 0;
+}
+
+footer > .row_about {
+    background: #DDDDDD;
+}
+
+footer .about{
+    min-height: 292px;
+    font-size: 0.8em;
+    color: #4C4A47;
+}
+
+.cat_head {
+    display: flex;
+    align-items: center;
+}
+
+footer #cat_head_img{
+    background: #7885A5;
+    height: 16em;
+}
+
+footer #cat_head_img:hover {
+    background: #061339;
+
+}
+
+footer .copyright {
+    background: #061339;
+    color: #fff;
+    font-size: 0.7em;
+    min-height: 30px;
+    
+}
+
+footer .copyright > p {
+    margin: O;
+    padding: 12px;
+}
+
+
+
+
+
