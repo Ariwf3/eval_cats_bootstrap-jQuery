@@ -1,4 +1,4 @@
-#Intégration de maquette dans le cadre d'une évaluation avec bootstrap et validation de formulaire avec jQuery.
+# Intï¿½gration de maquette dans le cadre d'une ï¿½valuation avec bootstrap et validation de formulaire avec jQuery.
 
-### screenshot
+### Screenshot
 ![screenshot](assets/img/screenshot.png)
